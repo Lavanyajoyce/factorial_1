@@ -1,1 +1,10 @@
-# factorial_1
+# Implement recursion
+## Aim:
+To find Factorial using Recursion
+## Procedure:
+
+## Code:
+
+## Output:
+
+## Result:
